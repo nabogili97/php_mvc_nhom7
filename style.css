@@ -1,0 +1,43 @@
+*{
+	margin : 0px;
+	padding: 0px;
+}
+
+.themthanhvien{
+	width: 400px;
+	border: 1px solid #ddd;
+	margin-top : 60px;
+	margin : 0px auto;
+}
+.themthanhvien h3 {
+	background: #009688;
+	padding: 5px;
+	color: #fff;
+	text-align: center;
+}
+.themthanhvien table tr td input {
+	padding: 5px;
+}
+.themthanhvien table tr td{
+	padding: 5px;
+}
+.list {
+	background: yellow;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 5px;	
+}
+.danhsach {
+	width: 500px;
+	margin: auto;
+	margin-top: 50px;
+}
+.danhsach table {
+	width: 500px;
+	border : 1px solid #99999;
+}
+.danhsach h3 {
+	background: #009588;
+	color: #fff;
+	text-align: center;
+}
